@@ -1,4 +1,4 @@
-## DEPARTAMENTOS
+## Departamentos
 
 ### AÇÃO SOCIAL
 
@@ -10,8 +10,13 @@ Apresentamos nossos sinceros agradecimentos a todos aqueles que, tornaram-se ver
 
 Por fim, agradecemos aos pastores da Igreja Batista Shalom que, entendem que a ação social não pode ser vista ou compreendida apenas como dever, no sentido de uma obrigação formal e farisaica, pois ela é parte integrante da Missão da Igreja e deve ser acolhida como fruto natural de uma fé integral, juntamente com o DAS, procuram sempre se renovar, adequando-se à realidade social dos dias atuais, além de demonstrarem sempre sua preocupação com a salvação da alma das pessoas, procurando acolher os que chegam, os que batem à porta, e integrar o indivíduo à comunidade cristã, restaurando sua dignidade, o que tem sido um desafio constante para todos nós. 
 
-Se você se sentir tocado em ajudar com doações as nossas campanhas, gentileza entre em contato com a Igreja Batista Shalom.www.batistashalom.com.br. 
- ENDEREÇO: Área Especial AOS 4/5 Lote 01 - Octogonal/DF. Brasil.TELEFONE: (61) 3233-4454
+Se você se sentir tocado em ajudar com doações as nossas campanhas, gentileza entre em contato com a Igreja Batista Shalom.
+
+www.batistashalom.com.br. 
+ 
+ENDEREÇO: Área Especial AOS 4/5 Lote 01 - Octogonal/DF. Brasil.
+ 
+ TELEFONE: (61) 3233-4454
 
 ### CASAIS
 
