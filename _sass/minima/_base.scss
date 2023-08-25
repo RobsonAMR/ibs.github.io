@@ -1,5 +1,7 @@
 html {
   font-size: $base-font-size;
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cormorant+Garamond&display=swap">
+
 }
 
 /**
@@ -20,8 +22,9 @@ dl, dd, ol, ul, figure {
  */
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-  color: $text-color;
-  background-color: $background-color;
+      font-family: 'Cormorant Garamond', sans-serif;
+  color: black;
+  background-color: #EECFA1;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
      -moz-font-feature-settings: "kern" 1;
@@ -138,7 +141,7 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: $brand-color;
+  color: white;
   border-left: 4px solid $border-color-01;
   padding-left: $spacing-unit * .5;
   @include relative-font-size(1.125);
