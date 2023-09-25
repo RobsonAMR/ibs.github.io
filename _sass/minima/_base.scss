@@ -1,7 +1,5 @@
 html {
-  font-size: $base-font-size;
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cormorant+Garamond&display=swap">
-
+  font-size: $20px;
 }
 
 /**
@@ -22,9 +20,8 @@ dl, dd, ol, ul, figure {
  */
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-      font-family: 'Cormorant Garamond', sans-serif;
-  color: black;
-  background-color: #EECFA1;
+  color: #ff0;
+  background-color: #ccc;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
      -moz-font-feature-settings: "kern" 1;
@@ -115,7 +112,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: $link-base-color;
+  color: #000000;
   text-decoration: none;
 
   &:visited {
@@ -141,18 +138,18 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: white;
+  color: $brand-color;
   border-left: 4px solid $border-color-01;
   padding-left: $spacing-unit * .5;
   @include relative-font-size(1.125);
-  font-style: normal;
+  font-style: italic;
 
   > :last-child {
     margin-bottom: 0;
   }
 
   i, em {
-    font-style: italic;
+    font-style: normal;
   }
 }
 
@@ -163,11 +160,11 @@ blockquote {
  */
 pre,
 code {
-  font-family: 'Times New Roman', Times, serif;
+  font-family: $code-font-family;
   font-size: 0.9375em;
   border: 1px solid $border-color-01;
   border-radius: 3px;
-  background-color: #555552;
+  background-color: $code-background-color;
 }
 
 code {
@@ -187,11 +184,11 @@ pre {
 
 .highlight {
   border-radius: 3px;
-  background: rgb(15, 15, 66);
+  background: $code-background-color;
   @extend %vertical-rhythm;
 
   .highlighter-rouge & {
-    background: yellow;
+    background: $code-background-color;
   }
 }
 
